@@ -51,6 +51,8 @@ public class Principala {
 		
 		//Acest rand este nou
 		System.out.println("Randul lui Vlad !!!");
+		
+		System.out.println("Am adaugat un nou rand de test");
 	}
 
 }
