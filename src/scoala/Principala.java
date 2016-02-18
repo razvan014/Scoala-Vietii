@@ -49,7 +49,8 @@ public class Principala {
 		System.out.println("Materia pe care o preda directorul scolii este " + directorunu.materia);
 		System.out.println("Numele profesorului de matematica al scolii " + scoala2.denumire + " este " + profesorunu.nume);
 		
-		
+		//Acest rand este nou
+		System.out.println("Randul lui Vlad !!!");
 	}
 
 }
