@@ -11,4 +11,10 @@ public class Profesori {
 		this.materia = materia;
 	}
 
+	@Override
+	public String toString() {
+		return "Profesori [nume=" + nume + ", materia=" + materia + "]";
+	}
+
+	
 }
